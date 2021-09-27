@@ -1,6 +1,6 @@
 # Five Fifths Voter
 
-## Description: 
+## Description
 
 Five Fifths Voter is a web application that equips and empowers voters, especially minority voters, to received the relevant information and education they need in order to vote in elections.
 
@@ -26,6 +26,6 @@ Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice
 
 Stay in touch in the #racial-justice-five-fifths-voter channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
-## Hear from the team!
+## Hear from the team
 
 Check out this [interview](https://www.youtube.com/watch?v=EbeAfUrs-Qw&t=166s) by the team to learn more about the project

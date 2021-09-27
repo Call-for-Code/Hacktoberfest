@@ -1,6 +1,6 @@
 # Truth Loop
 
-## Description: 
+## Description
 
 Truth Loop is a web application that makes it easier for users to find local legislation & policies and provide feedback through mobile video recordings.
 
@@ -22,6 +22,6 @@ Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice
 
 Stay in touch in the #racial-justice-truth-loop channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
-## Hear from the team!
+## Hear from the team
 
 Check out this [interview](https://www.youtube.com/watch?v=9viZ4NWugMw&t=2450s) by the team to learn more about the project
