@@ -1,6 +1,6 @@
 # TakeTwo
 
-## Description: 
+## Description
 
 TakeTwo is a web application for identifying racially biased media content. It consists of a web api, chrome extension and machine learning model. With the chrome extensiont users help train the machine learning model, by flag and categorizing content as racially biased. Developers can utilize the API to detect racial bias in given media content.
 

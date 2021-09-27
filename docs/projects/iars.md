@@ -1,6 +1,6 @@
 # Incident Accuracy Reporting System
 
-## Description: 
+## Description
 
 Incident Accuracy Reporting System (IARS) is a platform that captures eyewitness accounts and police reports and compares them to verify accuracy. IARS seeks to increase transparency & accountability in policing and to reduce police behavioral infractions by empowering eyewitnesses to submit their firsthand accounts.
 
@@ -22,6 +22,6 @@ Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice
 
 Stay in touch in the #racial-justice-incident-accuracy-reporting-system channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
-## Hear from the team!
+## Hear from the team
 
 Check out this [interview](https://www.youtube.com/watch?v=ipSV-ZNo-fQ&t=108s) by the team to learn more about the project

@@ -1,6 +1,6 @@
 # Fair Change
 
-## Description: 
+## Description
 
 Fair Change is a mobile application that allows upstanders to record police encounters on their mobile device in a safe and secure way
 
@@ -21,6 +21,6 @@ Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice
 
 Stay in touch in the #racial-justice-fair-change channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
-## Hear from the team!
+## Hear from the team
 
 Check out this [interview](https://www.youtube.com/watch?v=ikOVOeOjXDg&t=300s) by the team to learn more about the project

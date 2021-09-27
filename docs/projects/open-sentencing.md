@@ -1,6 +1,6 @@
 # Open Sentencing
 
-## Description: 
+## Description
 
 Open Sentencing is a platform for public defenders to analyze case information and insights, bias indicators in order to detect racial disparities in sentencing.
 
@@ -31,6 +31,6 @@ Open Sentencing has several repositories
 
 Stay in touch in the #racial-justice-open-sentencing channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
-## Hear from the team!
+## Hear from the team
 
 Check out this [interview](https://www.youtube.com/watch?v=ipSV-ZNo-fQ&t=108s) by the team to learn more about the project
