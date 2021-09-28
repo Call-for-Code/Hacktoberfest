@@ -24,7 +24,7 @@ Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice
 
 ## Slack Channel
 
-Stay in touch in the #racial-justice-five-fifths-voter channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
+Stay in touch in the #racial-justice-clusterduck-protocol channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team
 

@@ -29,7 +29,7 @@ Open Sentencing has several repositories
 
 ## Slack Channel
 
-Stay in touch in the #racial-justice-open-sentencing channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
+Stay in touch in the #racial-justice-droneaid channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team
 
