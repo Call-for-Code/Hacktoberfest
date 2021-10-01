@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-Handbook for Call for Code Hacktober Projects
+[Handbook for Call for Code Hacktober Projects](https://Call-for-Code.github.io/Hacktoberfest)
 
 ## Run locally
 
