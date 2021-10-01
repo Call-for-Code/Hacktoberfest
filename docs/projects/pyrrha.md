@@ -1,26 +1,28 @@
-# Fair Change
+# Protecting firefighters' health: Pyrrha
 
 ## Description
 
-Fair Change is a mobile application that allows upstanders to record police encounters on their mobile device in a safe and secure way
+IoT and AI come together to monitor the levels of toxin exposure for firefighters and to alert them before they are in danger of longterm respiratory problems in this project from Prometeo.
 
 ## Technology stack
 
-- React.js
-- Node.js
-- Expo
+- IoT Platform
+- IBM Watson
+- Node-RED
+- IBM Cloud Kubernetes Service
+- Python
 
-Fair Change has one repository (star the repo!)
-[Fair Change](https://github.com/Call-for-Code-for-Racial-Justice/fairchange): check out the [readme.md](https://github.com/Call-for-Code-for-Racial-Justice/fairchange#readme) to deploy the project
+[Pyrrha](https://github.com/Pyrrha-Platform/Pyrrha) has several repositories (star them!)
+Pyrrha: check out the [README](https://github.com/Pyrrha-Platform/Pyrrha/blob/main/README.md) to get started.
 
 ## Open issues
 
-Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice/FairChange/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
+Get started on issues [here](https://github.com/Call-for-Code/ClusterDuck-Protocol/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
 
 ## Slack Channel
 
-Stay in touch in the #racial-justice-fair-change channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
+Stay in touch in the #prometeo-pyrrha channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team
 
-Check out this [interview](https://www.youtube.com/watch?v=ikOVOeOjXDg&t=300s) by the team to learn more about the project
+Check out this [deployment page](https://developer.ibm.com/callforcode/solutions/prometeo/) to learn more about Prometeo, the creators of the Pyrrha.

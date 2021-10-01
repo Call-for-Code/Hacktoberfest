@@ -1,31 +1,29 @@
-# Five Fifths Voter
+# ClusterDuck Protocol
 
 ## Description
 
-Five Fifths Voter is a web application that equips and empowers voters, especially minority voters, to received the relevant information and education they need in order to vote in elections.
+This mobile mesh network of IoT devices based on LoRa can be accessed by people to stay in touch when communication lines go down following a disaster.
 
 ## Technology stack
 
-- Vue.js
-- Node.js
-- Express.js
-- Carbon Design
-- IBM Natural Language Understanding
-- IBM Watson Tone Analyzer
+- IBM Watson
+- IBM IoT Platform
+- Apache-2.0
+- C++
+- Java
+- JavaScript
 
-Check out the live site here: https://www.fivefifthsvoter.com/#/
-
-[Five Fifths Voter](https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter) has one repository (star the repo!)
-Five Fifths Voter: check out the [readme.md](https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter#readme) to deploy the project
+[ClusterDuck Protocol](https://github.com/Call-for-Code/ClusterDuck-Protocol/) has one repository (star the repo!)
+ClusterDuck Protocol: check out the [README](https://github.com/Call-for-Code/ClusterDuck-Protocol/blob/master/README.md) to get started.
 
 ## Open issues
 
-Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
+Get started on issues [here](https://github.com/Call-for-Code/ClusterDuck-Protocol/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
 
 ## Slack Channel
 
-Stay in touch in the #racial-justice-clusterduck-protocol channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
+Stay in touch in the #clusterduck-protocol channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team
 
-Check out this [interview](https://www.youtube.com/watch?v=EbeAfUrs-Qw&t=166s) by the team to learn more about the project
+Check out this [deployment page](https://developer.ibm.com/callforcode/solutions/owl/) to learn more about Project OWL, the creators of the ClusterDuck Protocol.

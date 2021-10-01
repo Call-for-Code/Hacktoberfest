@@ -1,36 +1,26 @@
-# Open Sentencing
+# Aerial scout for first responders: DroneAID
 
 ## Description
 
-Open Sentencing is a platform for public defenders to analyze case information and insights, bias indicators in order to detect racial disparities in sentencing.
+This solution uses machine learning to detect calls for help on the ground placed by those in need.
 
 ## Technology stack
 
-- Angular
-- Node.js
-- Python
-- Flask
-- sci-kit
-- pandas
+- TensorFlow.js - Used to run inference on the browser
+- Cloud Annotations - Used for training the model
+- Lens Studio - Used to create the augmented reality and generate the imageset
 
-Open Sentencing has several repositories
-
-- [Open Sentencing](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing) - check out the readme.md file to deploy the project
-- [Open Sentencing UI](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI) - check out the readme.md file to deploy the project
-- [Open Sentencing Aggregator](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Aggregator) - check out the readme.md file to deploy the project
-- [Open Sentencing Model](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model) - check out the readme.md file to deploy the project
+[DroneAid](https://github.com/Call-for-Code/DroneAid) has one repository (star the repo!)
+DroneAid: check out the [README](https://github.com/Call-for-Code/DroneAid/blob/master/README.md) to get started.
 
 ## Open issues
 
-- Get started on Open Sentencing repo issues [here](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-- Get started on Open Sentencing UI repo issues [here](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-UI/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-- Get started on Open Sentencing Aggregator repo issues [here](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Aggregator/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-- Get started on Open Sentencing Model repo issues [here](https://github.com/Call-for-Code-for-Racial-Justice/Open-Sentencing-Model/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+Get started on issues [here](https://github.com/Call-for-Code/DroneAid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
 
 ## Slack Channel
 
-Stay in touch in the #racial-justice-droneaid channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
+Stay in touch in the #droneaid channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team
 
-Check out this [interview](https://www.youtube.com/watch?v=ipSV-ZNo-fQ&t=108s) by the team to learn more about the project
+Check out the [video](https://www.youtube.com/watch?v=9fRcis-5Zuc) to learn more about DroneAid.

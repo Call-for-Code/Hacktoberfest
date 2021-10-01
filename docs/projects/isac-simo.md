@@ -1,27 +1,28 @@
-# Incident Accuracy Reporting System
+# Use AI to make home construction safer: ISAC-SIMO
 
 ## Description
 
-Incident Accuracy Reporting System (IARS) is a platform that captures eyewitness accounts and police reports and compares them to verify accuracy. IARS seeks to increase transparency & accountability in policing and to reduce police behavioral infractions by empowering eyewitnesses to submit their firsthand accounts.
+This project from Build Change uses AI and computer vision to help detect construction issues that could become life-threatening during a major incident like a hurricane or earthquake.
 
 ## Technology stack
 
-- Vue.js
+- IBM Watson
+- Django
 - Python
-- sci-kit
-- hyperledger
+- PostgreSQL
+- React Native
 
-IARS has one repository (Star the repo!)
-[Incident Accuracy Reporting System](https://github.com/Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System): Check out the [readme.md](https://github.com/Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System#readme) to deploy the project
+[ISAC-SIMO](https://github.com/ISAC-SIMO/) has four repositories (star them!)
+ISAC-SIMO: check out the [README](https://github.com/ISAC-SIMO/ISAC-SIMO/blob/master/README.md) to get started.
 
 ## Open issues
 
-Get started on issues [here](https://github.com/Call-for-Code-for-Racial-Justice/Incident-Accuracy-Reporting-System/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) (issues are tagged #hacktoberfest):
+Get started on issues [here](https://github.com/ISAC-SIMO/) (issues are tagged #hacktoberfest):
 
 ## Slack Channel
 
-Stay in touch in the #racial-justice-incident-accuracy-reporting-system channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
+Stay in touch in the #isac-simo channel. Click [here](../getting_started/README.md?id=join-our-slack-channel) to join our Slack workspace.
 
 ## Hear from the team
 
-Check out this [interview](https://www.youtube.com/watch?v=ipSV-ZNo-fQ&t=108s) by the team to learn more about the project
+Check out this [deployment page](https://developer.ibm.com/callforcode/solutions/build-change/) to learn more about Build Change, the creators of the ISAC-SIMO.
