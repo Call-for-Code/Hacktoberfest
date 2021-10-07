@@ -1,0 +1,28 @@
+{
+  "name": "hacktoberfest",
+  "version": "1.0.0",
+  "description": "Handbook for Call for Code Hacktober Projects",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs",
+    "prettier": "prettier --check .",
+    "prettier-fix": "prettier --check --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Call-for-Code/Hacktoberfest.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Call-for-Code/Hacktoberfest/issues"
+  },
+  "homepage": "https://github.com/Call-for-Code/Hacktoberfest#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3",
+    "prettier": "^2.4.1"
+  }
+}
