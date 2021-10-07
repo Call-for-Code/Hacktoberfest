@@ -41,3 +41,17 @@
    ```
 
 4. You can preview your site in your browser on `http://localhost:3000`
+
+## Check with prettier
+
+For a simple check you can use
+
+```bash
+npm run prettier
+```
+
+If you want prettier to try and fix problems, use
+
+```bash
+npm run prettier-fix
+```
