@@ -1,0 +1,19 @@
+name: lint
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request_target:
+    branches:
+      - main
+jobs:
+  linter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up node
+        uses: actions/setup-node@v2
+      - run: npm install
+      - run: npm run prettier
