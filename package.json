@@ -8,7 +8,8 @@
   },
   "scripts": {
     "start": "docsify serve docs",
-    "prettier": "prettier --check ."
+    "prettier": "prettier --check .",
+    "prettier-fix": "prettier --check --write ."
   },
   "repository": {
     "type": "git",
