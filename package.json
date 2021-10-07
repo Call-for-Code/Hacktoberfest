@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "docsify serve docs"
+    "start": "docsify serve docs",
+    "prettier": "prettier --check ."
   },
   "repository": {
     "type": "git",
