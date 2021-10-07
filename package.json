@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Call-for-Code/Hacktoberfest/issues"
   },
-  "homepage": "https://github.com/Call-for-Code/Hacktoberfest#readme"
+  "homepage": "https://github.com/Call-for-Code/Hacktoberfest#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
 }
