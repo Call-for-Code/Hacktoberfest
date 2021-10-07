@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Call-for-Code/Hacktoberfest#readme",
   "devDependencies": {
-    "docsify-cli": "^4.4.3"
+    "docsify-cli": "^4.4.3",
+    "prettier": "^2.4.1"
   }
 }
